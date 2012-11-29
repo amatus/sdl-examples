@@ -5,7 +5,7 @@ Each mouse press gets a new random color.
 
 To verify that you have the required SDL library files installed use the
 pkg-config utility at your shell prompt:
-$ pkg-config --version sdl
+$ pkg-config --modversion sdl
 
 On Debian and Ubuntu you can install the SDL library files using apt-get:
 $ sudo apt-get install libsdl1.2-dev
